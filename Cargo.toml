@@ -1,0 +1,9 @@
+[package]
+name = "rustic_mud"
+version = "0.1.0"
+authors = ["David Wilson <david@daviwil.com>"]
+
+[dependencies]
+ws = "*"
+log = "*"
+env_logger = "*"
